@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Buscador de smartphones</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>Buscador de smartphones</h1>
+	</header>
+	<main>
+		<form>
+			<label for="marca">Marca:</label>
+			<input type="text" id="marca" name="marca" autocomplete="off">
+
+			<label for="precio">Precio:</label>
+			<select id="precio" name="precio">
+				<option value="0-100">0€ - 100€</option>
+				<option value="100-200">100€ - 200€</option>
+				<option value="200-300">200€ - 300€</option>
+				<option value="300+">Más de 300€</option>
+			</select>
+
+			<button type="submit">Buscar</button>
+		</form>
+
+		<!-- Aquí iría la lista de resultados de la búsqueda -->
+	</main>
+
+	
+
+	<!-- Incluir aquí los scripts necesarios, como por ejemplo uno para el autocompletador de marcas -->
+	<script src="autocomplete.js"></script>
+</body>
+</html>
