@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #8B0000; /* Rojo oscuro */
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  section {
+    background-color: #fff;
+    color: #333;
+    padding: 40px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 20px;
+  }
+  
+  p {
+    font-size: 16px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  button.subscribe-btn {
+    background-color: #8B0000; /* Rojo oscuro */
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  footer {
+    background-color: #ADD8E6; /* Azul claro */
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+  }
+  
+  .license {
+    background-color: #87CEFA; /* Azul claro */
+    padding: 10px;
+  }
+  

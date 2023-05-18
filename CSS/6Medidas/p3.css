@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .paragraph {
+    background-color: #FF5252;
+    max-height: 10rem;
+    height: 5rem;
+    overflow: hidden;
+    padding: 10px;
+    color: white;
+    margin: 0;
+  }
+  

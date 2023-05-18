@@ -1,0 +1,14 @@
+.bat-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .bat-list li:before {
+    content: "\1F987";
+    color: black;
+    display: inline-block;
+    margin-right: 5px;
+    font-size: 20px;
+  }
+  

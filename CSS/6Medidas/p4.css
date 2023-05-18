@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .highlight {
+    background-color: rgba(255, 255, 0, 0.5);
+    text-decoration: underline;
+  }
+  
