@@ -1,0 +1,13 @@
+.uppercase {
+    text-transform: uppercase;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  .yellow-underline {
+    text-decoration: underline;
+    text-decoration-color: yellow;
+  }
+  

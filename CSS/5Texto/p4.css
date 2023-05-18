@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'TituloFont';
+    src: url('fonts/titulo-font.woff2') format('woff2'),
+         url('fonts/titulo-font.woff') format('woff');
+    /* Agrega más formatos de fuentes si es necesario */
+  }
+  
+  @font-face {
+    font-family: 'TextoFont';
+    src: url('fonts/texto-font.woff2') format('woff2'),
+         url('fonts/texto-font.woff') format('woff');
+    /* Agrega más formatos de fuentes si es necesario */
+  }
+  

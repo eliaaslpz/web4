@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  p {
+    padding: 10px;
+    color: white;
+    margin: 0;
+  }
+  
+  .step-1 {
+    background-color: #FF5252;
+    width: 100%;
+  }
+  
+  .step-2 {
+    background-color: #FF4081;
+    width: 80%;
+  }
+  
+  .step-3 {
+    background-color: #E040FB;
+    width: 60%;
+  }
+  
+  .step-4 {
+    background-color: #7C4DFF;
+    width: 40%;
+  }
+  
+  .step-5 {
+    background-color: #536DFE;
+    width: 20%;
+  }
+  

@@ -1,0 +1,36 @@
+.premium-column {
+    background-color: #f9f9f9;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .price {
+    font-size: 18px;
+    color: #8B0000; /* Rojo oscuro */
+    margin-bottom: 20px;
+  }
+  
+  .advantages {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 20px;
+  }
+  
+  .advantages li {
+    margin-bottom: 10px;
+  }
+  
+  .buy-btn {
+    background-color: #8B0000; /* Rojo oscuro */
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
